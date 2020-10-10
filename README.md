@@ -17,4 +17,5 @@ https://openclassrooms.com/fr/courses/6391096-creez-des-sites-web-responsive-ave
 
 - **OS** : ubuntu 20.04
 - **IDE** : Intellij IDEA Community Edition
-- **Browser** : Firefox 
+- **Browser** : Firefox
+- **Assets** : unsplash.com 
