@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c66ef13-70fa-4be7-9f1d-046a1f04d114" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +46,13 @@
       <screen x="0" y="23" width="1366" height="745" />
     </state>
     <state x="340" y="198" width="675" height="402" key="FileChooserDialogImpl/0.23.1366.745@0.23.1366.745" timestamp="1602330878786" />
-    <state x="429" y="185" width="505" height="399" key="search.everywhere.popup" timestamp="1602331048781">
+    <state x="430" y="176" key="run.anything.popup" timestamp="1602335979423">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
-    <state x="429" y="185" width="505" height="399" key="search.everywhere.popup/0.23.1366.745@0.23.1366.745" timestamp="1602331048781" />
+    <state x="430" y="176" key="run.anything.popup/0.23.1366.745@0.23.1366.745" timestamp="1602335979423" />
+    <state x="429" y="185" width="505" height="399" key="search.everywhere.popup" timestamp="1602336337733">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="429" y="185" width="505" height="399" key="search.everywhere.popup/0.23.1366.745@0.23.1366.745" timestamp="1602336337733" />
   </component>
 </project>
